@@ -1,7 +1,7 @@
 # 🎈 Welcome to the Arxiv Research Paper Scraper! 📚
 This tool allows you to easily access the latest research papers from the Arxiv website. It extracts information like:
 
-Titleof the paper
+Title of the paper
 
 Authors of the paper
 
